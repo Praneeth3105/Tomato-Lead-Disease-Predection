@@ -6,3 +6,5 @@ pillow
 tensorflow-serving-api==2.18.0
 matplotlib
 numpy
+
+//Note: Update To New Version and Change Logic If the Current Version is not working to run the task
