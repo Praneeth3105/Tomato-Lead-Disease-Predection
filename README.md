@@ -59,9 +59,7 @@ The model can classify the following tomato leaf conditions:
 
 This project uses the **Tomato Leaf Disease Dataset (Segmented)** available on Kaggle.
 
-Dataset Link:
-
-https://www.kaggle.com/datasets/ahmadzargar/tomato-leaf-disease-dataset-segmented
+Dataset Link: https://www.kaggle.com/datasets/ahmadzargar/tomato-leaf-disease-dataset-segmented
 
 Download the dataset and place it inside the **Train/dataset/** directory before training.
 
